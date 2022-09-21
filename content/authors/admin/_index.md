@@ -6,7 +6,7 @@ title: Peilin Liu
 superuser: true
 
 # Role/position/tagline
-role: Graduate of Artificial Intelligence
+role: Graduate of Software Engineering(AI)
 
 # Organizations/Affiliations to show in About widget
 organizations:
